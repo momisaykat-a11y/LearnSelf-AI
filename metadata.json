@@ -1,0 +1,6 @@
+{
+  "name": "Shiksho AI - Interactive Study Assistant",
+  "description": "AI-powered study assistant for Class 6–10 students in Mathematics, Science, English, Computer Studies, and General Knowledge with bilingual support, step-by-step problem solver, interactive simulations, practice quizzes, and revision notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
